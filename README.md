@@ -1,1 +1,1 @@
-# Implementation of Mixture of Gaussian (MoG) Model using the Expectation Maximisation Algorithm 
+# Implementation of Gaussian Mixture Model (GMM) using the Expectation Maximisation Algorithm 
